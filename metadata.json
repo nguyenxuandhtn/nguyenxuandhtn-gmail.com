@@ -1,0 +1,8 @@
+{
+  "name": "Remix CLASSROOM PRO – QUẢN TRỊ LỚP HỌC",
+  "description": "Hệ thống quản trị lớp học THPT chuyên nghiệp dành riêng cho giáo viên Nguyễn Thị Thanh Xuân – Trường THPT Đồng Hỷ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
